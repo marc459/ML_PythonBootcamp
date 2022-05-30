@@ -3,10 +3,9 @@
 </p>
 
 <h1 align="center">
-  Bootcamp { ... }
+  Bootcamp
 </h1>
 <h3 align="center">
-  { Subtitle } :rocket:
 </h3>
 <br/>
 
@@ -17,48 +16,27 @@
 - [Acknowledgements](#acknowledgements)
 <br/>
 
-This project is a { ... } bootcamp created by [42 AI](http://www.42ai.fr).
+This project is a bootcamp created by [42 AI](http://www.42ai.fr).
 
-{ A brief description goes here. }
 
 42 Artificial Intelligence is a student organization of the Paris campus of the school 42. Our purpose is to foster discussion, learning, and interest in the field of artificial intelligence, by organizing various activities such as lectures and workshops.
 <br/>
 
 
 ## Curriculum
-### Module05 - Stepping Into Machine Learning
+### 1_PART - Stepping Into Python Developing
 
-**Get started with some linear algebra and statistics**
 
-> Sum, mean, variance, standard deviation, vectors and matrices operations.  
-> Hypothesis, model, regression, loss function.
+**Get started with some Python Syntaxis**
 
-### Module06 - Univariate Linear Regression
+> Some python exercises to understand the dinamic of python
 
-**Implement a method to improve your model's performance: **gradient descent**, and discover the notion of normalization**
+### 2_PART - Machine Learning Python knowledgements
 
-> Gradient descent, linear regression, normalization.
 
-### Module07 - Multivariate Linear Regression
+**More complex projects to introduce you to IA**
 
-**Extend the linear regression to handle more than one features, build polynomial models and detect overfitting**
-
-> Multivariate linear hypothesis, multivariate linear gradient descent, polynomial models.  
-> Training and test sets, overfitting.
-
-### Module08 - Logistic Regression
-
-**Discover your first classification algorithm: logistic regression!**
-
-> Logistic hypothesis, logistic gradient descent, logistic regression, multiclass classification.  
-> Accuracy, precision, recall, F1-score, confusion matrix.
-
-### Module09 - Regularization
-
-**Fight overfitting!**
-
-> Regularization, overfitting. Regularized loss function, regularized gradient descent.  
-> Regularized linear regression. Regularized logistic regression.
+>  see documentation [here](2_MLPython/README.md)
 
 <br/>
 
@@ -66,10 +44,8 @@ This project is a { ... } bootcamp created by [42 AI](http://www.42ai.fr).
 
 ### Contributors
 
-* Firstname Name (login@42ai.fr or login@student.42.fr)
-* ...
+* Firstname Name (msantos-@42ai.fr or msantos-@student.42.fr)
 
 ### Beta-testers
 
-* Firstname Name (login@42ai.fr or login@student.42.fr)
-* ...
+* Firstname Name (msantos@42ai.fr or msantos@student.42.fr)
